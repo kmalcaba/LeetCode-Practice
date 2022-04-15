@@ -50,7 +50,7 @@ You can return the answer in any order.
 **Memory Usage**: 42 MB
 - less than 96% of JavaScript online submissions for Two Sum
 
-File name: Two Sum v1.js
+File name: [Two Sum v1.js](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Two%20Sum%20v1.js)
 
 ```js
 /**
@@ -106,7 +106,7 @@ var twoSum = function(nums, target) {
 > 4.  If present, return _{required number index, current number index}_ as result.
 > 5.  Otherwise add the current iteration number as _key_ and its index as _value_ to the hashmap. Repeat this until you find the result.
 
-File name: Two Sum v2.js
+File name: [Two Sum v2.js](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Two%20Sum%20v2.js)
 
 ```js
 /**
