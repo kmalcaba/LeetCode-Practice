@@ -64,7 +64,7 @@ Given a roman numeral, convert it to an integer.
 **Memory Usage:** 46.8 MB
 - less than 79.79% of JavaScript online submissions for Roman to Integer
 
-File name: Roman to Integer.js
+File name: [Roman to Integer.js](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Roman%20to%20Integer.js)
 
 ```js
 /**
