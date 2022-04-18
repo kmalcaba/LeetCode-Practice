@@ -5,3 +5,4 @@ This is a repository of my solutions for LeetCode problems from leetcode.com. I 
 ## Easy
 
 - [Two Sum](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Two%20Sum.md)
+- [Roman to Integer](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Roman%20to%20Integer.md)
