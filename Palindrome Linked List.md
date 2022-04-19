@@ -45,7 +45,7 @@ Given the `head` of a singly linked list, return `true` if it is a palindrome.
 
 Based on: [Java | Time: O(N) | Space: O(1)](https://leetcode.com/problems/palindrome-linked-list/discuss/1935933/Java-or-Time%3A-O(N)-or-Space%3A-O(1))
 
-File name: Palindrome Linked List.js
+File name: [Palindrome Linked List.js](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Palindrome%20Linked%20List.js)
 
 ```js
 /**
