@@ -7,3 +7,4 @@ This is a repository of my solutions for LeetCode problems from leetcode.com. I 
 - [Two Sum](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Two%20Sum.md)
 - [Roman to Integer](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Roman%20to%20Integer.md)
 - [Palindrome Linked List](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Palindrome%20Linked%20List.md)
+- [Ransom Note](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Ransom%20Note.md)
