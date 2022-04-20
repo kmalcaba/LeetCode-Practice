@@ -45,7 +45,7 @@ Each letter in `magazine` can only be used once in `ransomNote`.
 **Memory Usage:** 49 MB
 - less than 16.58% of JavaScript online submissions for Ransom Note
 
-File name: Ransom Note.js
+File name: [Ransom Note.js](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Ransom%20Note.js)
 
 ```js
 /**
