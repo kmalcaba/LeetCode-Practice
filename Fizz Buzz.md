@@ -46,7 +46,7 @@ Given an integer `n`, return _a string array_ `answer` _(**1-indexed**) wher
 
 - less than 13.88% of JavaScript online submissions for Fizz Buzz
 
-File name: Fizz Buzz.js
+File name: [Fizz Buzz.js](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Fizz%20Buzz.js)
 
 ```js
 /**
