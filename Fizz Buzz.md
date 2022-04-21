@@ -1,5 +1,4 @@
 ---
-tags: [tech/lc/easy]
 dateSolved: 2022-04-20
 ---
 
@@ -16,16 +15,22 @@ Given an integer `n`, return _a string array_ `answer` _(**1-indexed**) wher
 -   `answer[i] == "Buzz"` if `i` is divisible by `5`.
 -   `answer[i] == i` (as a string) if none of the above conditions are true.
 
-> [!example] Example 1
+> Example 1
+>
 > **Input:** n = 3
+>
 > **Output:** ["1","2","Fizz"]
 
-> [!example] Example 2
+> Example 2
+>
 > **Input:** n = 5
+>
 > **Output:** ["1","2","Fizz","4","Buzz"]
 
-> [!example] Example 3
+> Example 3
+>
 > **Input:** n = 15
+>
 > **Output:** ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13","14","FizzBuzz"]
 
 **Constraints:**
@@ -40,6 +45,8 @@ Given an integer `n`, return _a string array_ `answer` _(**1-indexed**) wher
 **Memory Usage:** 44.8 MB
 
 - less than 13.88% of JavaScript online submissions for Fizz Buzz
+
+File name: Fizz Buzz.js
 
 ```js
 /**
