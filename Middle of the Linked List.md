@@ -46,7 +46,7 @@ If there are two middle nodes, return **the second middle** node.
 **Memory Usage:** 42.2 MB
 - less than 50.11% of JavaScript online submissions for Middle of the Linked List
 
-File name: Middle of the Linked List.js
+File name: [Middle of the Linked List.js](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Middle%20of%20the%20Linked%20List.js)
 
 ```js
 /**
