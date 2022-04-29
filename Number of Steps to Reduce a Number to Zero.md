@@ -66,7 +66,7 @@ In one step, if the current number is even, you have to divide it by `2`, other
 **Memory Usage:** 41.4 MB
 - less than 98.25% of JavaScript online submissions for Number of Steps to Reduce a Number to Zero
 
-File name: Number of Steps to Reduce a Number to Zero.js
+File name: [Number of Steps to Reduce a Number to Zero.js](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.js)
 
 ```js
 /**
