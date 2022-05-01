@@ -63,7 +63,7 @@ A customer's **wealth** is the amount of money they have in all their bank acc
 **Memory Usage:** 42.6 MB
 - less than 26.50% of JavaScript online submissions for Richest Customer Wealth
 
-File Name: Richest Customer Wealth.js
+File Name: [Richest Customer Wealth.js](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Richest%20Customer%20Weatlh.js)
 
 ```js
 /**
