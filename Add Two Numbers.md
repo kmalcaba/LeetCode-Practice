@@ -50,7 +50,7 @@ Based on: [LeetCode Discussions](https://leetcode.com/problems/add-two-numbers/d
 **Memory Usage:** 47.4 MB
 - less than 69.48% of Java online submissions for Add Two Numbers
 
-File Name: Add Two Numbers.java
+File Name: [Add Two Numbers.java](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Add%20Two%20Numbers.java)
 
 ```java
 /**
