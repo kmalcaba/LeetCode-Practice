@@ -12,3 +12,6 @@ This is a repository of my solutions for LeetCode problems from leetcode.com. I 
 - [Middle of the Linked List](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Middle%20of%20the%20Linked%20List.md)
 - [Number of Steps to Reduce a Number to Zero](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.md)
 - [Richest Customer Wealth](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Richest%20Customer%20Wealth.md)
+
+## Medium
+- [Add Two Numbers](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Add%20Two%20Numbers.md)
