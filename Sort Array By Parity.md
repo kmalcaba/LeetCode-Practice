@@ -40,7 +40,7 @@ Return _**any array** that satisfies this condition_.
 **Memory Usage:** 45.2 MB 
 - less than 22.27% of JavaScript online submissions for Sort Array By Parity
 
-File Name: Sort Array By Parity.js
+File Name: [Sort Array By Parity.js](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Sort%20Array%20By%20Parity.js)
 
 ```js
 /**
