@@ -15,3 +15,4 @@ This is a repository of my solutions for LeetCode problems from leetcode.com. I 
 
 ## Medium
 - [Add Two Numbers](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Add%20Two%20Numbers.md)
+- [Sort Array By Parity](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Sort%20Array%20By%20Parity.md)
