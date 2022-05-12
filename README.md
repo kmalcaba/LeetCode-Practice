@@ -16,3 +16,4 @@ This is a repository of my solutions for LeetCode problems from leetcode.com. I 
 
 ## Medium
 - [Add Two Numbers](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Add%20Two%20Numbers.md)
+- [Longest Substring Without Repeating Characters](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Longest%20Substring%20Without%20Repeating%20Characters.md)
