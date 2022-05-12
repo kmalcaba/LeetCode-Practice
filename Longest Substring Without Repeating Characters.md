@@ -53,7 +53,7 @@ based on [Longest Substring Without Repeating Characters - Leetcode #3 Short & S
 **Memory Usage:** 49.6 MB
 - less than 18.01% of JavaScript online submissions for Longest Substring Without Repeating Characters
 
-File name: Longest Substring Without Repeating Characters.md
+File name: [Longest Substring Without Repeating Characters.md](https://github.com/kmalcaba/LeetCode-Practice/blob/main/Longest%20Substring%20Without%20Repeating%20Characters.js)
 
 ```js
 /**
